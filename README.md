@@ -2,7 +2,7 @@
 
 ** Version 1.0.0**
 
-## A python shell program in which a random ip is generated and then you are asked to break down specific aspects of the ip used to create subnets.
+## A python shell program in which a random ip is generated and then you are asked a semi-randomized set of questions to break down specific aspects of the ip used to create subnets.
 
 ### This Project was created to demonstrate knowledge of classes, functions, loops and other fundamental concepts utilized when programming in python.
 
